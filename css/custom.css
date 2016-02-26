@@ -1,0 +1,20 @@
+
+
+#gallery .gallery-item {
+    right: 0;
+    margin: 0 0 15px;
+    text-align: center;
+}
+
+#gallery .gallery-item .gallery-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.play-store-img {
+    margin: 0 auto;
+    height: 60px;
+    width: 185px;
+}
